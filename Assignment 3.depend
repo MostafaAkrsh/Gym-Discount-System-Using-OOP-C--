@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1607369062 source:e:\ws\assignment 3\discount.cpp
+	"Discount.h"
+
+1607370517 source:e:\ws\assignment 3\main.cpp
+	<iostream>
+	"Customer.h"
+	"Visit.h"
+
+1607363823 e:\ws\assignment 3\customer.h
+	"iostream"
+	"string"
+	"iomanip"
+
+1607368885 source:e:\ws\assignment 3\visit.cpp
+	"Visit.h"
+
+1607366538 source:e:\ws\assignment 3\customer.cpp
+	"Customer.h"
+
+1607368764 e:\ws\assignment 3\visit.h
+	"iostream"
+	"string"
+	"iomanip"
+	"Customer.h"
+	"Discount.h"
+
+1607368771 e:\ws\assignment 3\discount.h
+	"iostream"
+	"string"
+	"iomanip"
+
